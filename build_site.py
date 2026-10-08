@@ -33,8 +33,8 @@ for g in sorted(G, key=lambda x: -abs(x['gap'])):
     rows = ''
     for lu, lp, ru, rp in spec:
         m, lit, lw = meter(lp, rp, hc, ac)
-        rows += (f'<div class="r"><div><small style="color:{hc if lit and lw else "#6B6860"}">{html.escape(h)}</small><strong>{lu}</strong><em>{ordn(lp)} pct</em></div>{m}'
-                 f'<div class="rt"><small style="color:{ac if lit and not lw else "#6B6860"}">{html.escape(a)}</small><strong>{ru}</strong><em>{ordn(rp)} pct</em></div></div>')
+        rows += (f'<div class="r"><div><small>{html.escape(h)}</small><strong>{lu}</strong><em>{ordn(lp)} pct</em></div>{m}'
+                 f'<div class="rt"><small>{html.escape(a)}</small><strong>{ru}</strong><em>{ordn(rp)} pct</em></div></div>')
     hs = g['slate_home_spread']
     if g['gap'] < 0: pk, pc = f'{a} {sp(-hs)}', ac
     else: pk, pc = f'{h} {sp(hs)}', hc
@@ -52,7 +52,7 @@ header{{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:8
 .t{{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center}}.t img{{width:72px;height:72px;object-fit:contain}}
 .t b{{font:700 24px/1 'Barlow Condensed',sans-serif}}.t span{{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut)}}.d{{font-size:13px;color:var(--mut);font-weight:500}}
 .r{{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr) minmax(0,1fr);gap:12px;align-items:center;padding:12px 0;border-top:1px solid var(--line)}}
-.r small{{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600}}.r strong{{display:block;font:700 20px/1.1 'Barlow Condensed',sans-serif}}.r em{{font-style:normal;font-size:12px;color:var(--mut)}}.rt{{text-align:right}}
+.r small{{display:block;color:var(--mut);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600}}.r strong{{display:block;font:700 20px/1.1 'Barlow Condensed',sans-serif}}.r em{{font-style:normal;font-size:12px;color:var(--mut)}}.rt{{text-align:right}}
 .m{{position:relative;height:18px;border-radius:9px;background:var(--track)}}.m i{{position:absolute;top:0;bottom:0}}.m b{{position:absolute;left:50%;top:-4px;bottom:-4px;width:2px;margin-left:-1px;background:#B9B6AB}}
 footer{{display:flex;align-items:center;gap:10px;border-top:1px solid var(--line);padding-top:16px}}footer i{{width:12px;height:12px;border-radius:6px}}
 footer span{{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);font-weight:600}}footer strong{{font:700 24px/1 'Barlow Condensed',sans-serif}}footer u{{margin-left:auto;text-decoration:none;font-size:13px;font-weight:600;background:var(--bg);padding:5px 12px;border-radius:6px}}
