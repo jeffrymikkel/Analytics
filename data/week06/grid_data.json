@@ -1,0 +1,812 @@
+[
+ {
+  "away": "Maryland",
+  "home": "Ohio State",
+  "slate_home_spread": -34.5,
+  "proj_home": 1.875,
+  "gap": -32.625,
+  "net": -0.25,
+  "st": [
+   57,
+   14,
+   -1
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Maryland",
+    "de": "Ohio State",
+    "op": 24,
+    "dp": 62,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Maryland",
+    "de": "Ohio State",
+    "op": 26,
+    "dp": 74,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Maryland",
+    "de": "Ohio State",
+    "op": 89,
+    "dp": 32,
+    "raw": 2,
+    "final": 2,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Ohio State",
+    "de": "Maryland",
+    "op": 67,
+    "dp": 67,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Ohio State",
+    "de": "Maryland",
+    "op": 89,
+    "dp": 48,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Ohio State",
+    "de": "Maryland",
+    "op": 52,
+    "dp": 85,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -34.5,
+   "home_spread_open": -34.5,
+   "total": 56.5
+  }
+ },
+ {
+  "away": "UCLA",
+  "home": "Oregon",
+  "slate_home_spread": -11.5,
+  "proj_home": -4.375,
+  "gap": -15.875,
+  "net": -2.75,
+  "st": [
+   1,
+   34,
+   1
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "UCLA",
+    "de": "Oregon",
+    "op": 81,
+    "dp": 52,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "UCLA",
+    "de": "Oregon",
+    "op": 48,
+    "dp": 72,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "UCLA",
+    "de": "Oregon",
+    "op": 47,
+    "dp": 18,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Oregon",
+    "de": "UCLA",
+    "op": 41,
+    "dp": 78,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Oregon",
+    "de": "UCLA",
+    "op": 83,
+    "dp": 72,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 4.0 vs Oklahoma State, Boise State"
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Oregon",
+    "de": "UCLA",
+    "op": 58,
+    "dp": 41,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -11.5,
+   "home_spread_open": -12.5,
+   "total": 58.5
+  }
+ },
+ {
+  "away": "San Diego State",
+  "home": "Oregon State",
+  "slate_home_spread": -13.5,
+  "proj_home": 25.625,
+  "gap": 12.125,
+  "net": 9.25,
+  "st": [
+   70,
+   90,
+   0
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "San Diego State",
+    "de": "Oregon State",
+    "op": 29,
+    "dp": 58,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "San Diego State",
+    "de": "Oregon State",
+    "op": 6,
+    "dp": 62,
+    "raw": -2,
+    "final": -2,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "San Diego State",
+    "de": "Oregon State",
+    "op": 46,
+    "dp": 81,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Oregon State",
+    "de": "San Diego State",
+    "op": 57,
+    "dp": 52,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Oregon State",
+    "de": "San Diego State",
+    "op": 67,
+    "dp": 39,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Oregon State",
+    "de": "San Diego State",
+    "op": 82,
+    "dp": 31,
+    "raw": 2,
+    "final": 2,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -15.5,
+   "home_spread_open": -14.5,
+   "total": 53.5
+  }
+ },
+ {
+  "away": "Indiana",
+  "home": "Nebraska",
+  "slate_home_spread": 7.5,
+  "proj_home": 4.375,
+  "gap": 11.875,
+  "net": 0.75,
+  "st": [
+   14,
+   42,
+   1
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Indiana",
+    "de": "Nebraska",
+    "op": 70,
+    "dp": 30,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Indiana",
+    "de": "Nebraska",
+    "op": 85,
+    "dp": 76,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 12.3 vs Northwestern"
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Indiana",
+    "de": "Nebraska",
+    "op": 45,
+    "dp": 92,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Nebraska",
+    "de": "Indiana",
+    "op": 86,
+    "dp": 74,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 4.2 vs Maryland"
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Nebraska",
+    "de": "Indiana",
+    "op": 65,
+    "dp": 63,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Nebraska",
+    "de": "Indiana",
+    "op": 85,
+    "dp": 91,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": 7.5,
+   "home_spread_open": 9.5,
+   "total": 48.5
+  }
+ },
+ {
+  "away": "Kansas",
+  "home": "Utah",
+  "slate_home_spread": -14.5,
+  "proj_home": 6.25,
+  "gap": -8.25,
+  "net": 1.5,
+  "st": [
+   86,
+   9,
+   -2
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Kansas",
+    "de": "Utah",
+    "op": 80,
+    "dp": 72,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 13.0 vs Missouri, Arizona State"
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Kansas",
+    "de": "Utah",
+    "op": 50,
+    "dp": 60,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Kansas",
+    "de": "Utah",
+    "op": 64,
+    "dp": 55,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Utah",
+    "de": "Kansas",
+    "op": 75,
+    "dp": 71,
+    "raw": 0,
+    "final": 0,
+    "note": "UNTESTED"
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Utah",
+    "de": "Kansas",
+    "op": 71,
+    "dp": 66,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Utah",
+    "de": "Kansas",
+    "op": 93,
+    "dp": 42,
+    "raw": 2,
+    "final": 2,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -15.5,
+   "home_spread_open": null,
+   "total": 51.5
+  }
+ },
+ {
+  "away": "Iowa",
+  "home": "Washington",
+  "slate_home_spread": -2.5,
+  "proj_home": -5.625,
+  "gap": -8.125,
+  "net": -3.25,
+  "st": [
+   20,
+   52,
+   1
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Iowa",
+    "de": "Washington",
+    "op": 37,
+    "dp": 77,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Iowa",
+    "de": "Washington",
+    "op": 39,
+    "dp": 51,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Iowa",
+    "de": "Washington",
+    "op": 88,
+    "dp": 55,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Washington",
+    "de": "Iowa",
+    "op": 37,
+    "dp": 79,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Washington",
+    "de": "Iowa",
+    "op": 50,
+    "dp": 40,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Washington",
+    "de": "Iowa",
+    "op": 17,
+    "dp": 85,
+    "raw": -2,
+    "final": -2,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -3,
+   "home_spread_open": -1.5,
+   "total": 41.5
+  }
+ },
+ {
+  "away": "Texas",
+  "home": "Oklahoma",
+  "slate_home_spread": 8.5,
+  "proj_home": -1.25,
+  "gap": 7.25,
+  "net": -1.5,
+  "st": [
+   30,
+   84,
+   2
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Texas",
+    "de": "Oklahoma",
+    "op": 38,
+    "dp": 73,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Texas",
+    "de": "Oklahoma",
+    "op": 61,
+    "dp": 82,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Texas",
+    "de": "Oklahoma",
+    "op": 23,
+    "dp": 100,
+    "raw": -2,
+    "final": -2,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Oklahoma",
+    "de": "Texas",
+    "op": 17,
+    "dp": 91,
+    "raw": -2,
+    "final": -2,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Oklahoma",
+    "de": "Texas",
+    "op": 53,
+    "dp": 87,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Oklahoma",
+    "de": "Texas",
+    "op": 34,
+    "dp": 95,
+    "raw": -2,
+    "final": -2,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": 7.5,
+   "home_spread_open": 6,
+   "total": 39.5
+  }
+ },
+ {
+  "away": "Iowa State",
+  "home": "BYU",
+  "slate_home_spread": -10.5,
+  "proj_home": 6.875,
+  "gap": -3.625,
+  "net": 1.75,
+  "st": [
+   70,
+   32,
+   -1
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Iowa State",
+    "de": "BYU",
+    "op": 63,
+    "dp": 67,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Iowa State",
+    "de": "BYU",
+    "op": 52,
+    "dp": 78,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Iowa State",
+    "de": "BYU",
+    "op": 68,
+    "dp": 47,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "BYU",
+    "de": "Iowa State",
+    "op": 85,
+    "dp": 42,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "BYU",
+    "de": "Iowa State",
+    "op": 32,
+    "dp": 58,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "BYU",
+    "de": "Iowa State",
+    "op": 84,
+    "dp": 58,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -10.5,
+   "home_spread_open": -14.5,
+   "total": 46.5
+  }
+ },
+ {
+  "away": "Georgia",
+  "home": "Alabama",
+  "slate_home_spread": -1.5,
+  "proj_home": 3.125,
+  "gap": 1.625,
+  "net": 0.25,
+  "st": [
+   26,
+   14,
+   0
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "Georgia",
+    "de": "Alabama",
+    "op": 75,
+    "dp": 95,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 12.2 vs Oklahoma"
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "Georgia",
+    "de": "Alabama",
+    "op": 79,
+    "dp": 70,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 12.8 vs Oklahoma"
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "Georgia",
+    "de": "Alabama",
+    "op": 78,
+    "dp": 88,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Alabama",
+    "de": "Georgia",
+    "op": 82,
+    "dp": 73,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 12.1 vs South Carolina"
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Alabama",
+    "de": "Georgia",
+    "op": 88,
+    "dp": 53,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Alabama",
+    "de": "Georgia",
+    "op": 20,
+    "dp": 64,
+    "raw": -1,
+    "final": -1,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -1.5,
+   "home_spread_open": 3,
+   "total": 51.5
+  }
+ },
+ {
+  "away": "USC",
+  "home": "Penn State",
+  "slate_home_spread": -1.5,
+  "proj_home": 0.0,
+  "gap": -1.5,
+  "net": -1.0,
+  "st": [
+   30,
+   12,
+   0
+  ],
+  "rows": [
+   {
+    "label": "Away run O v Home run D",
+    "off": "USC",
+    "de": "Penn State",
+    "op": 65,
+    "dp": 67,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Away pass O v Home pass D",
+    "off": "USC",
+    "de": "Penn State",
+    "op": 82,
+    "dp": 97,
+    "raw": 0,
+    "final": 0,
+    "note": "stress drop 2.9 vs San Jos\u00e9 State, Oregon"
+   },
+   {
+    "label": "Away pro v Home rush",
+    "off": "USC",
+    "de": "Penn State",
+    "op": 89,
+    "dp": 20,
+    "raw": 2,
+    "final": 2,
+    "note": ""
+   },
+   {
+    "label": "Home run O v Away run D",
+    "off": "Penn State",
+    "de": "USC",
+    "op": 38,
+    "dp": 31,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   },
+   {
+    "label": "Home pass O v Away pass D",
+    "off": "Penn State",
+    "de": "USC",
+    "op": 68,
+    "dp": 32,
+    "raw": 1,
+    "final": 1,
+    "note": ""
+   },
+   {
+    "label": "Home pro v Away rush",
+    "off": "Penn State",
+    "de": "USC",
+    "op": 70,
+    "dp": 63,
+    "raw": 0,
+    "final": 0,
+    "note": ""
+   }
+  ],
+  "lines": {
+   "book": "DraftKings",
+   "home_spread_now": -1.5,
+   "home_spread_open": -1.5,
+   "total": 54.5
+  }
+ }
+]
